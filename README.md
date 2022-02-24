@@ -1,3 +1,3 @@
 # vortex-capes
 
-repo for all vortex capes and uuids
+responsavel pelo backend de cosmeticos dentro do vortex! reborn
